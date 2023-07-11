@@ -14,6 +14,7 @@
 ## 実行方法
 
 sample_resume_generator.ipynb を google colaboratory 上で実行してください。
+- [open in Colab](https://colab.research.google.com/github/kagiya00/sample_resume_generator/blob/main/sample_resume_generator.ipynb)
 
 ## 主な利用ライブラリ/サービス
 
